@@ -1,5 +1,5 @@
 # Currency Converter
-<img width="304" height="341" alt="image" src="https://github.com/user-attachments/assets/0f8035fd-309e-4565-bf51-d688e97e4967" />
+<img width="304" height="502" alt="image" src="https://github.com/user-attachments/assets/e3fc9f32-1f40-4f46-a6e4-02bf3fe5ac06" />
 
 A simple desktop GUI app built with Python and Flet that converts amounts between currencies using live exchange rates.
 
